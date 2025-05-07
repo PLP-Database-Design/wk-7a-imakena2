@@ -46,6 +46,6 @@ VALUES
 (102, 'Mouse', 2),
 (103, 'Phone', 1);
 
---SELECT * FROM Orders;
+-- SELECT * FROM Orders;
 
 SELECT * FROM Product;
